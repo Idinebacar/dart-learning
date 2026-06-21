@@ -1,6 +1,7 @@
 import 'dart:io';
 
 class Student {
+    // properties
     String? name;
     String? course;
     int? age;
