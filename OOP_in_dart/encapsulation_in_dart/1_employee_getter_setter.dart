@@ -1,5 +1,6 @@
 // Encapsulation using private properties
 // and getter/setter methods
+// Getter : for reading While Setter: for updating 
 
 class Employee {
     int? _id;
