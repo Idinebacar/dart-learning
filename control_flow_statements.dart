@@ -1,7 +1,7 @@
 void main() {
-  int year = 2005;
+  int year = 2003;
 
-  List<String> flybyObjects = ['Mercury','Venus','Earth','Mars'];
+  List<String> flybyObjects = ['Mercury', 'Venus', 'Earth', 'Mars'];
 
   if (year >= 2001) {
     print('21st century');
